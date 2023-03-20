@@ -4193,7 +4193,7 @@ GameObject:
   - component: {fileID: 1585875653}
   - component: {fileID: 1585875654}
   m_Layer: 0
-  m_Name: EndGamePanel
+  m_Name: EndScreen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
