@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using Prototypes.CardGame;
 using UnityEngine;
 
 public class TurnManager : MonoBehaviour {
